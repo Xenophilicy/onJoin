@@ -1,0 +1,9 @@
+name: onJoin
+author: Xenophilicy
+version: 1.0.0
+description: A very very (very) simple plugin to show a simplistic UI 'onJoin'
+main: onJoin\main
+api: [3.0.0, 3.5.1, 4.0.0]
+commands:
+  joinme:
+    description: Tester

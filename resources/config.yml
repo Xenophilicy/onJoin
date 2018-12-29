@@ -1,0 +1,43 @@
+# MADE BY:
+#  __    __                                          __        __  __  __                     
+# /  |  /  |                                        /  |      /  |/  |/  |                    
+# $$ |  $$ |  ______   _______    ______    ______  $$ |____  $$/ $$ |$$/   _______  __    __ 
+# $$  \/$$/  /      \ /       \  /      \  /      \ $$      \ /  |$$ |/  | /       |/  |  /  |
+#  $$  $$<  /$$$$$$  |$$$$$$$  |/$$$$$$  |/$$$$$$  |$$$$$$$  |$$ |$$ |$$ |/$$$$$$$/ $$ |  $$ |
+#   $$$$  \ $$    $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |$$ |$$ |$$ |      $$ |  $$ |
+#  $$ /$$  |$$$$$$$$/ $$ |  $$ |$$ \__$$ |$$ |__$$ |$$ |  $$ |$$ |$$ |$$ |$$ \_____ $$ \__$$ |
+# $$ |  $$ |$$       |$$ |  $$ |$$    $$/ $$    $$/ $$ |  $$ |$$ |$$ |$$ |$$       |$$    $$ |
+# $$/   $$/  $$$$$$$/ $$/   $$/  $$$$$$/  $$$$$$$/  $$/   $$/ $$/ $$/ $$/  $$$$$$$/  $$$$$$$ |
+#                                         $$ |                                      /  \__$$ |
+#                                         $$ |                                      $$    $$/ 
+#                                         $$/                                        $$$$$$/     
+
+# Title of the UI that shows when a player joins
+UI-Title: "§bWelcome to the Server!"
+
+# These are the elements in your form:
+# You can use '§' in the elements for colors and effects to show up on the UI
+
+# Content → Text you see below the title
+# You can use '\n' for a line break on the content
+Content-Message: "§aThanks so much for joining the server!!\n§9Hope you enjoy and have fun!\n§cView plugins and get info about the server below!"
+
+# Buttons → Can be bound to commands run by either the console or the player
+
+# Title → Text on the button
+# Command → Set the command to be run when the button is selected
+# Run-As → Choose if the command be run as a player or from console (Options: 'Player' & 'Server')
+
+# Any button can be set to 'false' if you don't want it (As seen on Button-3)
+Button-1:
+  Title: "§aView Plugins"
+  Command: "plugins"
+  Run-As: "Player"
+Button-2:
+  Title: "§eAbout Server"
+  Command: "about"
+  Run-As: "Player"
+Button-3:
+  Title: false
+  Command: false
+  Run-As: false
