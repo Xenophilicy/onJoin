@@ -28,7 +28,7 @@ Content-Message: "§aThanks so much for joining the server!!\n§9Hope you enjoy 
 # Command → Set the command to be run when the button is selected
 # Run-As → Choose if the command be run as a player or from console (Options: 'Player' & 'Server')
 
-# Any button can be set to 'false' if you don't want it (As seen on Button-3)
+# Any of the buttons can be set to 'false' if you don't want it (As seen in Button-3)
 Button-1:
   Title: "§aView Plugins"
   Command: "plugins"
