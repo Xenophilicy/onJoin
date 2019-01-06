@@ -1,4 +1,7 @@
 # onJoin
+[![HitCount](http://hits.dwyl.io/Xenophilicy/onJoin.svg)](http://hits.dwyl.io/Xenophilicy/onJoin)
+![](https://img.shields.io/discord/490677165289897995.svg?style=flat-square)
+
 # [![Xenophilicy](https://i.imgur.com/Ig51KnR.png)]()
 
 ```diff
